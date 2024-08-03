@@ -1,7 +1,8 @@
 
 <div align="center">
   
-![Semin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Semin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNSEMIN&show_icons=true&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EUNSEMIN&layout=compact)
 
 <br>
 <h2 align="center">Contacts</h3>
